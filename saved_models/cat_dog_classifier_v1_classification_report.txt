@@ -1,0 +1,9 @@
+Classification Report (Validation Set):
+              precision    recall  f1-score   support
+
+        cats       0.97      0.92      0.94       100
+        dogs       0.92      0.97      0.95       100
+
+    accuracy                           0.94       200
+   macro avg       0.95      0.95      0.94       200
+weighted avg       0.95      0.94      0.94       200
